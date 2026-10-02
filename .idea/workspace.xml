@@ -10,10 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e322454e-e84b-4c54-8ba6-eaf91616bc1d" name="Changes" comment="updated files to account for framework suggestions made by GPT">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/studyhub/data/database/UserRoleConverter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/studyhub/data/dao/UserDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/studyhub/data/dao/UserDao.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/studyhub/data/database/StudyHubDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/studyhub/data/database/StudyHubDatabase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/studyhub/repository/UserRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/studyhub/repository/UserRepository.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -359,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790941769277</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="updated files to account for framework suggestions made by GPT">
+      <option name="closed" value="true" />
+      <created>1790942568328</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1790942568328</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
